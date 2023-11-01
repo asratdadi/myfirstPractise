@@ -1,2 +1,2 @@
 # myfirstPractise
-Githun practise of the coursera course
+Github practise of the coursera course
